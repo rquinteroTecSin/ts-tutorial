@@ -17,6 +17,13 @@ my-node-app
 ```
 npm install -g typescript
 ```
+
+## Instalación del módulo tsc
+```
+npm install -g tsx
+```
+Este módulo permite ejecutar código TypeScript sin tener que precompilar a JavaScript
+
 ## Instalación de dependencias
 ```
 npm install
