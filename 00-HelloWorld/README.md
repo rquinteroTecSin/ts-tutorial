@@ -13,6 +13,10 @@ my-node-app
 └── README.md
 ```
 
+## Instalación de TypeScript
+```
+npm install -g typescript
+```
 ## Instalación de dependencias
 ```
 npm install
