@@ -28,13 +28,6 @@ Este módulo permite ejecutar código TypeScript sin tener que precompilar a Jav
 ```
 npm install -g typescript
 ```
-
-## Instalación del módulo tsx
-```
-npm install -g tsx
-```
-Este módulo permite ejecutar código TypeScript sin tener que precompilar a JavaScript
-
 ## Instalación de dependencias
 ```
 npm install
