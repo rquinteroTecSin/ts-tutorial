@@ -58,4 +58,3 @@ Esto compilará el código TypeScript y ejecutará el archivo `exercise.ts`, mos
 tsc --build --clean
 rm -rf dist node_modules
 ```
-

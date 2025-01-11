@@ -1,0 +1,16 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "Una aplicación básica de Node.js que muestra 'Hola Mundo' en la consola.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/exercise.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
