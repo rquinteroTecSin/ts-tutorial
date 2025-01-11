@@ -18,7 +18,7 @@ my-node-app
 npm install -g typescript
 ```
 
-## Instalación del módulo tsc
+## Instalación del módulo tsx
 ```
 npm install -g tsx
 ```
@@ -40,9 +40,12 @@ Para ejecutar la aplicación, utiliza el siguiente comando:
 ```
 npm start
 ```
+Esto compilará el código TypeScript y ejecutará el archivo `exercise.ts`, mostrando "Hola Mundo" en la consola.
 
-Esto compilará el código TypeScript y ejecutará el archivo `index.ts`, mostrando "Hola Mundo" en la consola.
-
+Si se desea ejecutar directamente el script sin precompilar se puede hacer con el comando:
+```
+tsx exercise.ts
+```
 ## Limpieza de binarios y dependencias
 ```
 tsc --build --clean
