@@ -44,7 +44,7 @@ Esto compilará el código TypeScript y ejecutará el archivo `exercise.ts`, mos
 
 Si se desea ejecutar directamente el script sin precompilar se puede hacer con el comando:
 ```
-tsx exercise.ts
+tsx ./src/exercise.ts
 ```
 ## Limpieza de binarios y dependencias
 ```
